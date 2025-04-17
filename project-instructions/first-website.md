@@ -432,6 +432,7 @@ Your updated code should look like this:
 <br>
 
 <div style="text-align: center;">
+
   <img src="https://raw.githubusercontent.com/OperationSpark/images/refs/heads/master/hs-curriculum/fsd-projects/first-website/first-shot.png" alt="Right-click 'Open with Live Server'" style="max-width: 300px;">
 </div>
 
